@@ -1,6 +1,8 @@
 # 🛡️ Türkçe SMS ve Oltalama (Phishing) Tespiti Mobil Entegrasyonu
 
-![Status](https://img.shields.io/badge/Durum-Tamamlandı-blue?style=for-the-badge)
+[![Durum](https://img.shields.io/badge/DURUM-TAMAMLANDI-007ec6?style=for-the-badge&labelColor=555555)](#)
+[![Versiyon](https://img.shields.io/badge/VERSİYON-V1.0.0-brightgreen?style=for-the-badge)](#)
+[![Platform](https://img.shields.io/badge/PLATFORM-ANDROID-orange?style=for-the-badge)](#)
 
 Bu proje, Türkçe dil yapısına özgü veri setleri kullanılarak eğitilmiş bir Doğal Dil İşleme (NLP) ve makine öğrenmesi modelinin, native bir Android uygulamasına (Kotlin) entegre edilmesini sağlayan uçtan uca bir siber güvenlik çözümüdür.
 
